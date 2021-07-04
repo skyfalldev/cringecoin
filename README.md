@@ -3,7 +3,7 @@
 Cringecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
 its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
 Cringecoin currently employs a simplified variant of scrypt.
-- **Website:** [dogecoin.com.](https://dogecoin.com)
+- **Website:** [cringecoin.hypex.io](https://dogecoin.com)
 
 ## License ⚖️
 Cringecoin is released under the terms of the MIT license. See
